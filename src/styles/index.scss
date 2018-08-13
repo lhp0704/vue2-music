@@ -1,0 +1,11 @@
+@import "./reset.css";
+@import "./normalize.css";
+@import './variables.scss';
+body {
+  font-family: "hiragino sans gb", arial;
+  font-size: $font-size-medium;
+  color: $color-negative;
+  background-color: $color-background;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none;
+}
