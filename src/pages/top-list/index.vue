@@ -122,7 +122,7 @@ export default {
         height: 10px;
         background-position: 0 -50px;
         margin-right: 3px;
-        background-image: url(../../images/list_sprite.png);
+        background-image: url(../../assets/list_sprite.png);
         background-repeat: no-repeat;
         background-size: 24px 60px;
         z-index: 10;
